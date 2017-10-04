@@ -1,3 +1,7 @@
+/*
+** It is the driver class.
+**/
+
 import java.lang.*;
 public class plainMinimaxAlgo {
 	
