@@ -1,4 +1,7 @@
-# TicTacToe
-It is a basic tictactoe game without any artificial intelligence.
-TicTacToe.java is the main file containing the main method.
-gameBoard.java is file handling all the game operations.
+# Plain Minimax Algo
+It is a basic implementation of minimax algorithm.
+It is basically used in 2 player game like Tic Tac Toe.
+In minimax 2 players are called minimizer and maximizer.
+The minimizer tries to get minimum value and maximizer tries 
+to get maximum value as the name suggests .
+
